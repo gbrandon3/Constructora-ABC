@@ -11,4 +11,4 @@ class VistaReglas(Resource):
             return 'Error',500
         else:
             return 'Se creo la regla',200
-        
+        #2
