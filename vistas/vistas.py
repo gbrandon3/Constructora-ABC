@@ -2,13 +2,23 @@ from multiprocessing import reduction
 from urllib import request
 from flask import request
 from flask_restful import Resource
+import requests
 
 
-class VistaReglas(Resource):
+class VistaGateway(Resource):
     def post(self):
-        print(request.json)
-        if(request.json["accion"]=="error"):
-            return 'Error',500
-        else:
-            return 'Se creo la regla',200
-        #2
+        peticion = requests.get(
+            "https://experimientoi-apimanagement.azure-api.net/servicio/ubicacion/ubicacion")
+
+        if(peticion.status_code == 200):
+
+           
+         
+            peticion2 = requests.post(
+                "https://experimientoi-apimanagement.azure-api.net/servicio/regla/reglas")
+            print(peticion2)
+
+                
+        
+
+        
