@@ -22,7 +22,7 @@ class VistaGateway(Resource):
             if(peticion2.status_code!=200):
                 
                 peticion3=requests.post("https://experimientoi-apimanagement.azure-api.net/servicio/duplicado/reglas",json={"accion":"crear"})
-                time.sleep(random.uniform(0.5,1.0))
+                time.sleep(random.uniform(0.5,1.0)) #se agrega para simular persistencia
                 if(peticion3.status_code==200):
                     return {"mensaje":"se creo la regla"},'200'
                 else:
