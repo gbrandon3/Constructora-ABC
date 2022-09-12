@@ -14,7 +14,7 @@ with open('resultado.txt', 'w') as f:
    
         end=time.time()
         resul=" Se creo la regla "if request.status_code==200 else "No se creo la regla"
-        if(end-start>=4):
+        if(end-start>=5):
             fallos+=1
         print("Request "+str(i+1)+ resul+' tiempo: '+str(end-start)+"\n")
         f.write('tiempo:'+str(end-start)+"\n"+"del request "+str(i+1)+ resul+' tiempo: '+str(end-start)+"\n")
