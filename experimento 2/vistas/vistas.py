@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-
-from multiprocessing import reduction
-=======
-from urllib import request
->>>>>>> 48483d9131037c273af012833db732c556a2de00
 from flask import request
 from flask_restful import Resource
 import requests
