@@ -7,7 +7,7 @@ class VistaGateway(Resource):
     def post(self): 
       
         try:
-            autorizacion=requests.get("http://127.0.0.1:80/autorizacion",headers={"Authorization":request.headers["Authorization"]})
+            autorizacion=requests.get("https://autorizadorexp.azurewebsites.net/autorizacion",headers={"Authorization":request.headers["Authorization"]})
             print(autorizacion.json()["Autorizado"])
             if(autorizacion.json()["Autorizado"] and autorizacion.status_code==200):
             
@@ -32,3 +32,6 @@ class VistaGateway(Resource):
         else:
             return {"mensaje":"No tienes permiso para realizar esta accion"},'403'
 
+class VistaGatewayAutorizador(Resource):
+    def post(self): 
+        return requests.post("https://autorizadorexp.azurewebsites.net/autorizacion").json()
