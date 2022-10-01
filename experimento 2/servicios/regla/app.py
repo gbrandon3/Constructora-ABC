@@ -5,6 +5,7 @@ from flask_restful import Api
 from vistas import VistaReglas
 app = Flask('regla')
 
+app.config['JWT_SECRET_KEY'] = 'frase-secreta'
 
 app_context=app.app_context()
 app_context.push()
