@@ -9,7 +9,7 @@ from vistas.vistas import VistaAutorizador
 app = Flask(__name__)
 app.config['JWT_SECRET_KEY'] = 'frase-secreta'
 app.config["JWT_ACCESS_TOKEN_EXPIRES"] = timedelta(hours=1)
-
+app.config['PROPAGATE_EXCEPTIONS'] = True
 app_context = app.app_context()
 app_context.push()
 cors = CORS(app)

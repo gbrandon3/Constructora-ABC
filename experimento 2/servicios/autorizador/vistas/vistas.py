@@ -3,7 +3,7 @@ from flask_restful import Resource
 from flask_jwt_extended import create_access_token,jwt_required,get_jwt_identity
 class VistaAutorizador(Resource):
     def post(self):
-        token_de_acceso = create_access_token(identity="1090356984")
+        token_de_acceso = create_access_token(identity=2)
         return {"token":token_de_acceso}
     
     @jwt_required()
