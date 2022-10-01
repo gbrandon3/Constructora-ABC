@@ -13,4 +13,4 @@ class VistaAutorizador(Resource):
             request_identity = get_jwt_identity()
             return { "Autorizado": request_identity == "1090356984" }, 200
         except Exception as e:
-            return { "Autorizado": False }, 401
+            return { "Autorizado": False, "Mensaje": e }, 401
