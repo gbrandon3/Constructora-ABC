@@ -7,6 +7,8 @@ class VistaAutorizador(Resource):
     def post(self):
         token_de_acceso = create_access_token(identity="1090356984")
         return {"token":token_de_acceso}
+    
     @jwt_required()
     def get(self):
-        return {"Autorizado":True}
+        request_identity = get_jwt_identity()
+        return { "Autorizado": reques_identity == "1090356984" }, 200
