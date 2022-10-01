@@ -6,7 +6,7 @@ import random
 class VistaAutorizador(Resource):
     def post(self):
         numbers = [1,2]
-        token_de_acceso = create_access_token(random.choice(number))
+        token_de_acceso = create_access_token(random.choice(numbers))
         return {"token":token_de_acceso}
     
     @jwt_required()
