@@ -9,5 +9,8 @@ class VistaAutorizador(Resource):
     
     @jwt_required()
     def get(self):
-        request_identity = get_jwt_identity()
-        return { "Autorizado": request_identity == "1090356984" }, 200
+        try:
+            request_identity = get_jwt_identity()
+            return { "Autorizado": request_identity == "1090356984" }, 200
+        except Exception as e:
+            return { "Autorizado": False }, 401
