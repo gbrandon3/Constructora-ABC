@@ -1,11 +1,14 @@
+<<<<<<< HEAD
 
 from multiprocessing import reduction
+=======
+from urllib import request
+>>>>>>> 48483d9131037c273af012833db732c556a2de00
 from flask import request
 from flask_restful import Resource
 import requests
-import json
-import time
-import random
+
+
 class VistaGateway(Resource):
     def post(self): 
       
@@ -25,14 +28,10 @@ class VistaGateway(Resource):
             
                 if(peticion2.status_code!=200):
                 
-                    peticion3=requests.post("https://experimientoi-apimanagement.azure-api.net/servicio/duplicado/reglas",json={"accion":"crear"})
-                    time.sleep(random.uniform(0.5,1.0)) #se agrega para simular persistencia
-                    if(peticion3.status_code==200):
-                        return {"mensaje":"se creo la regla"},'200'
-                    else:
-                        return {"mensaje":"No se creo la regla"},'500'
+                    return {"mensaje":"No se creo la regla"},'500'
                 else:
                     return {"mensaje":"se creo la regla"},'200'
         else:
             return {"mensaje":"No tienes permiso para realizar esta accion"},'403'
    
+
