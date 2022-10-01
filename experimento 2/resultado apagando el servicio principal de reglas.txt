@@ -1,0 +1,200 @@
+tiempo:2.193950891494751
+del request 1 Se creo la regla  tiempo: 2.193950891494751
+tiempo:2.329711437225342
+del request 2 Se creo la regla  tiempo: 2.329711437225342
+tiempo:2.4011330604553223
+del request 3 Se creo la regla  tiempo: 2.4011330604553223
+tiempo:3.0506691932678223
+del request 4 Se creo la regla  tiempo: 3.0506691932678223
+tiempo:2.56563663482666
+del request 5 Se creo la regla  tiempo: 2.56563663482666
+tiempo:2.457564115524292
+del request 6 Se creo la regla  tiempo: 2.457564115524292
+tiempo:2.4100236892700195
+del request 7 Se creo la regla  tiempo: 2.4100236892700195
+tiempo:2.17822003364563
+del request 8 Se creo la regla  tiempo: 2.17822003364563
+tiempo:2.180208444595337
+del request 9 Se creo la regla  tiempo: 2.180208444595337
+tiempo:3.5828802585601807
+del request 10 Se creo la regla  tiempo: 3.5828802585601807
+tiempo:2.137505054473877
+del request 11 Se creo la regla  tiempo: 2.137505054473877
+tiempo:2.3561315536499023
+del request 12 Se creo la regla  tiempo: 2.3561315536499023
+tiempo:2.4217658042907715
+del request 13 Se creo la regla  tiempo: 2.4217658042907715
+tiempo:2.3524513244628906
+del request 14 Se creo la regla  tiempo: 2.3524513244628906
+tiempo:2.2532451152801514
+del request 15 Se creo la regla  tiempo: 2.2532451152801514
+tiempo:2.126420497894287
+del request 16 Se creo la regla  tiempo: 2.126420497894287
+tiempo:2.0590412616729736
+del request 17 Se creo la regla  tiempo: 2.0590412616729736
+tiempo:2.258514404296875
+del request 18 Se creo la regla  tiempo: 2.258514404296875
+tiempo:2.3347103595733643
+del request 19 Se creo la regla  tiempo: 2.3347103595733643
+tiempo:2.255983829498291
+del request 20 Se creo la regla  tiempo: 2.255983829498291
+tiempo:1.973736047744751
+del request 21 Se creo la regla  tiempo: 1.973736047744751
+tiempo:2.0437211990356445
+del request 22 Se creo la regla  tiempo: 2.0437211990356445
+tiempo:2.4523348808288574
+del request 23 Se creo la regla  tiempo: 2.4523348808288574
+tiempo:2.0271897315979004
+del request 24 Se creo la regla  tiempo: 2.0271897315979004
+tiempo:1.9251155853271484
+del request 25 Se creo la regla  tiempo: 1.9251155853271484
+tiempo:2.2868258953094482
+del request 26 Se creo la regla  tiempo: 2.2868258953094482
+tiempo:2.2718067169189453
+del request 27 Se creo la regla  tiempo: 2.2718067169189453
+tiempo:2.1708812713623047
+del request 28 Se creo la regla  tiempo: 2.1708812713623047
+tiempo:2.156036615371704
+del request 29 Se creo la regla  tiempo: 2.156036615371704
+tiempo:1.908904790878296
+del request 30 Se creo la regla  tiempo: 1.908904790878296
+tiempo:2.3211796283721924
+del request 31 Se creo la regla  tiempo: 2.3211796283721924
+tiempo:2.7850539684295654
+del request 32 Se creo la regla  tiempo: 2.7850539684295654
+tiempo:2.05255126953125
+del request 33 Se creo la regla  tiempo: 2.05255126953125
+tiempo:2.3831748962402344
+del request 34 Se creo la regla  tiempo: 2.3831748962402344
+tiempo:2.4485695362091064
+del request 35 Se creo la regla  tiempo: 2.4485695362091064
+tiempo:2.095914125442505
+del request 36 Se creo la regla  tiempo: 2.095914125442505
+tiempo:2.1725242137908936
+del request 37 Se creo la regla  tiempo: 2.1725242137908936
+tiempo:2.23018217086792
+del request 38 Se creo la regla  tiempo: 2.23018217086792
+tiempo:2.2861382961273193
+del request 39 Se creo la regla  tiempo: 2.2861382961273193
+tiempo:1.9156460762023926
+del request 40 Se creo la regla  tiempo: 1.9156460762023926
+tiempo:2.9711222648620605
+del request 41 Se creo la regla  tiempo: 2.9711222648620605
+tiempo:2.697136402130127
+del request 42 Se creo la regla  tiempo: 2.697136402130127
+tiempo:2.1476268768310547
+del request 43 Se creo la regla  tiempo: 2.1476268768310547
+tiempo:2.1981921195983887
+del request 44 Se creo la regla  tiempo: 2.1981921195983887
+tiempo:2.6510276794433594
+del request 45 Se creo la regla  tiempo: 2.6510276794433594
+tiempo:1.9253299236297607
+del request 46 Se creo la regla  tiempo: 1.9253299236297607
+tiempo:2.4816155433654785
+del request 47 Se creo la regla  tiempo: 2.4816155433654785
+tiempo:2.130011558532715
+del request 48 Se creo la regla  tiempo: 2.130011558532715
+tiempo:2.322145700454712
+del request 49 Se creo la regla  tiempo: 2.322145700454712
+tiempo:2.1946942806243896
+del request 50 Se creo la regla  tiempo: 2.1946942806243896
+tiempo:1.930018424987793
+del request 51 Se creo la regla  tiempo: 1.930018424987793
+tiempo:2.324295997619629
+del request 52 Se creo la regla  tiempo: 2.324295997619629
+tiempo:1.9783737659454346
+del request 53 Se creo la regla  tiempo: 1.9783737659454346
+tiempo:2.0593464374542236
+del request 54 Se creo la regla  tiempo: 2.0593464374542236
+tiempo:2.168241500854492
+del request 55 Se creo la regla  tiempo: 2.168241500854492
+tiempo:2.2351057529449463
+del request 56 Se creo la regla  tiempo: 2.2351057529449463
+tiempo:2.2554666996002197
+del request 57 Se creo la regla  tiempo: 2.2554666996002197
+tiempo:2.049814462661743
+del request 58 Se creo la regla  tiempo: 2.049814462661743
+tiempo:2.177126407623291
+del request 59 Se creo la regla  tiempo: 2.177126407623291
+tiempo:2.476548671722412
+del request 60 Se creo la regla  tiempo: 2.476548671722412
+tiempo:2.569031238555908
+del request 61 Se creo la regla  tiempo: 2.569031238555908
+tiempo:2.2982685565948486
+del request 62 Se creo la regla  tiempo: 2.2982685565948486
+tiempo:2.447986125946045
+del request 63 Se creo la regla  tiempo: 2.447986125946045
+tiempo:2.562549591064453
+del request 64 Se creo la regla  tiempo: 2.562549591064453
+tiempo:2.024019241333008
+del request 65 Se creo la regla  tiempo: 2.024019241333008
+tiempo:2.6416876316070557
+del request 66 Se creo la regla  tiempo: 2.6416876316070557
+tiempo:2.162937879562378
+del request 67 Se creo la regla  tiempo: 2.162937879562378
+tiempo:2.5087037086486816
+del request 68 Se creo la regla  tiempo: 2.5087037086486816
+tiempo:2.7297310829162598
+del request 69 Se creo la regla  tiempo: 2.7297310829162598
+tiempo:2.5507185459136963
+del request 70 Se creo la regla  tiempo: 2.5507185459136963
+tiempo:2.2799365520477295
+del request 71 Se creo la regla  tiempo: 2.2799365520477295
+tiempo:2.1335883140563965
+del request 72 Se creo la regla  tiempo: 2.1335883140563965
+tiempo:2.2147181034088135
+del request 73 Se creo la regla  tiempo: 2.2147181034088135
+tiempo:2.269000291824341
+del request 74 Se creo la regla  tiempo: 2.269000291824341
+tiempo:3.45357084274292
+del request 75 Se creo la regla  tiempo: 3.45357084274292
+tiempo:2.906583309173584
+del request 76 Se creo la regla  tiempo: 2.906583309173584
+tiempo:2.0947518348693848
+del request 77 Se creo la regla  tiempo: 2.0947518348693848
+tiempo:3.0339972972869873
+del request 78 Se creo la regla  tiempo: 3.0339972972869873
+tiempo:3.3967947959899902
+del request 79 Se creo la regla  tiempo: 3.3967947959899902
+tiempo:2.997774600982666
+del request 80 Se creo la regla  tiempo: 2.997774600982666
+tiempo:9.33494758605957
+del request 81 Se creo la regla  tiempo: 9.33494758605957
+tiempo:2.7079334259033203
+del request 82 Se creo la regla  tiempo: 2.7079334259033203
+tiempo:3.0588762760162354
+del request 83 Se creo la regla  tiempo: 3.0588762760162354
+tiempo:2.402639865875244
+del request 84 Se creo la regla  tiempo: 2.402639865875244
+tiempo:3.854081153869629
+del request 85 Se creo la regla  tiempo: 3.854081153869629
+tiempo:2.081453561782837
+del request 86 Se creo la regla  tiempo: 2.081453561782837
+tiempo:2.268632650375366
+del request 87 Se creo la regla  tiempo: 2.268632650375366
+tiempo:3.082381248474121
+del request 88 Se creo la regla  tiempo: 3.082381248474121
+tiempo:1.995269775390625
+del request 89 Se creo la regla  tiempo: 1.995269775390625
+tiempo:2.0701606273651123
+del request 90 Se creo la regla  tiempo: 2.0701606273651123
+tiempo:2.8948862552642822
+del request 91 Se creo la regla  tiempo: 2.8948862552642822
+tiempo:2.743922710418701
+del request 92 Se creo la regla  tiempo: 2.743922710418701
+tiempo:2.446260690689087
+del request 93 Se creo la regla  tiempo: 2.446260690689087
+tiempo:2.6870553493499756
+del request 94 Se creo la regla  tiempo: 2.6870553493499756
+tiempo:2.1388280391693115
+del request 95 Se creo la regla  tiempo: 2.1388280391693115
+tiempo:3.0929832458496094
+del request 96 Se creo la regla  tiempo: 3.0929832458496094
+tiempo:2.595222234725952
+del request 97 Se creo la regla  tiempo: 2.595222234725952
+tiempo:2.449857234954834
+del request 98 Se creo la regla  tiempo: 2.449857234954834
+tiempo:2.7270538806915283
+del request 99 Se creo la regla  tiempo: 2.7270538806915283
+tiempo:3.8314874172210693
+del request 100 Se creo la regla  tiempo: 3.8314874172210693
